@@ -1,0 +1,6 @@
+[submodule "print"]
+	path = print
+	url = https://github.com/NakedSolidSnake/print
+[submodule "mathe"]
+	path = mathe
+	url = https://github.com/NakedSolidSnake/mathe
